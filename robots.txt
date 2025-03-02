@@ -1,1 +1,4 @@
+User-agent: *
+Disallow:
 
+Sitemap: https://nomor-whatsapp-ajaib-eight.vercel.app/sitemap.xml
